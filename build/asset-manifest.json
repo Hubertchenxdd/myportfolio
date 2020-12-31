@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/myportfolio/static/js/main.0765b748.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.0765b748.chunk.js.map",
+    "runtime-main.js": "/myportfolio/static/js/runtime-main.7077e726.js",
+    "runtime-main.js.map": "/myportfolio/static/js/runtime-main.7077e726.js.map",
+    "static/js/2.59c92fcb.chunk.js": "/myportfolio/static/js/2.59c92fcb.chunk.js",
+    "static/js/2.59c92fcb.chunk.js.map": "/myportfolio/static/js/2.59c92fcb.chunk.js.map",
+    "static/js/3.487f359c.chunk.js": "/myportfolio/static/js/3.487f359c.chunk.js",
+    "static/js/3.487f359c.chunk.js.map": "/myportfolio/static/js/3.487f359c.chunk.js.map",
+    "index.html": "/myportfolio/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/myportfolio/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.59c92fcb.chunk.js.LICENSE.txt": "/myportfolio/static/js/2.59c92fcb.chunk.js.LICENSE.txt",
+    "static/media/Hubert.46bfbbd0.png": "/myportfolio/static/media/Hubert.46bfbbd0.png",
+    "static/media/Shiny.a12c8c86.png": "/myportfolio/static/media/Shiny.a12c8c86.png",
+    "static/media/covid_small_business.ac5c4c28.png": "/myportfolio/static/media/covid_small_business.ac5c4c28.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7077e726.js",
+    "static/js/2.59c92fcb.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.0765b748.chunk.js"
+  ]
+}
